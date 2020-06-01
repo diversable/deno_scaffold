@@ -1,7 +1,7 @@
 # deno_scaffold
 
 Note: If you haven't yet installed Deno on your machine, see the installation instructions at the bottom of this document, or go read up on Deno here: 
-Deno Website: https://deno.land/
+Deno Website: https://deno.land/  and here: 
 Deno Manual: https://deno.land/manual/introduction
 
 
