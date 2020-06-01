@@ -11,7 +11,7 @@ Deno Manual: https://deno.land/manual/introduction
 
 ## "Best Practices" - from the [Deno Manual](https://deno.land/manual/introduction)
 
-### The ./src/deps/ts file: Working with ES Module Dependencies Easily
+### The `./src/deps.ts` file: Working with ES Module Dependencies Easily
 
 For reference, read the Deno Manual's section on ["Linking to External Code"](https://deno.land/manual/linking_to_external_code):
 
