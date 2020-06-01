@@ -1,14 +1,13 @@
 # Deno Scaffold
 
-Note: If you haven't yet installed Deno on your machine, see the installation instructions at the bottom of this document, or go read up on Deno here: 
-Deno Website: https://deno.land/  and here: 
-Deno Manual: https://deno.land/manual/introduction
-
-
 This repo is intended as a quick way to set up a [Deno](https://deno.land/) project with some "best practices" described in the Deno manual (eg. https://deno.land/manual/linking_to_external_code and https://deno.land/manual/linking_to_external_code/integrity_checking)
 
 --- Open to pull requests which will make this starter template easier to use - anything that helps you get up and running quickly without regard to the type of project being implemented (CLI, web server, etc) ---
 
+Note: If you haven't yet installed Deno on your machine, see the installation instructions at the bottom of this document, or go read up on Deno here: 
+
+Deno Website: https://deno.land/  <br>
+Deno Manual: https://deno.land/manual/introduction
 
 ## "Best Practices" - from the [Deno Manual](https://deno.land/manual/introduction)
 
@@ -137,9 +136,9 @@ Build and install from source using Cargo
 """
 
 
-Check out what's in available already in the Deno runtime by reading the [API Docs](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts).
+**Check out what's in available already in the Deno runtime by reading the [API Docs](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)**.
 
-For 3rd party libraries from the quickly-evolving Deno ecosystem, see here: https://deno.land/x
+**For 3rd party libraries from the quickly-evolving Deno ecosystem, see here: https://deno.land/x**
 
 
-Happy Coding!!!
+_**Happy Coding!!!**_
